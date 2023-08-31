@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geevoice
+- 👋 Hi, I’m @Graceoi
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning R programming language
 - 💞️ I’m looking to collaborate on freelancing and hybrid jobs.
